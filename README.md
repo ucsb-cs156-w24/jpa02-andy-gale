@@ -2,7 +2,7 @@
 
 Repo: https://ucsb-cs156-w24/jpa02-andy-gale
 
-Deployed at: https://jpa02-andy-gale.dokku-14.cs.ucsb.edu
+Deployed at: http://jpa02-andy-gale.dokku-14.cs.ucsb.edu
 
 
 # About this repo
