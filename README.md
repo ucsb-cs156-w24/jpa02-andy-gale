@@ -1,6 +1,6 @@
 # jpa02-andy-gale
 
-Repo: https://github.com/ucsb-cs156-w24/jpa02-andy-gale.git
+Repo: https://github.com/ucsb-cs156-w24/jpa02-andy-gale
 
 Deployed at: http://jpa02-andy-gale.dokku-14.cs.ucsb.edu
 
